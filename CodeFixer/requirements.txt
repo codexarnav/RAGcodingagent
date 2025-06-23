@@ -1,0 +1,8 @@
+streamlit 
+pytesseract
+PIL
+json
+os
+langchain
+langchain_huggingface 
+langchain_google_genai 
